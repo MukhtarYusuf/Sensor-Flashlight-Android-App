@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Proximity Flash Light</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">The Proximity Flash Light App Turns the Flash Light on When you Wave Your Hand in Front of Your Phone. Try It Now!</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+</resources>
